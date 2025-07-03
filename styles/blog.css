@@ -1,8 +1,9 @@
-body{
+div{
     background-color: rgb(112, 243, 255);
-    text-align: center;
+    /* text-align: center; */
     border: 20px;
     margin: 20px;
+    padding: 10px 9px 2px;
 }
 p{
     border: 2px  solid black;
